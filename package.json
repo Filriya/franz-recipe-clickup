@@ -1,0 +1,20 @@
+{
+  "id": "clickup",
+  "name": "ClickUp",
+  "version": "1.0.0",
+  "description": "ClickUp",
+  "main": "index.js",
+  "author": "Filriya <arizoxppc@gmail.com>",
+  "repository": "https://github.com/Filriya/franz-recipe-clickup",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.clickup.com",
+    "serviceName": "ClickUp",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false
+  }
+}
